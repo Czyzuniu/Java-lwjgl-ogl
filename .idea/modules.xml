@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyFirstGLGame.iml" filepath="$PROJECT_DIR$/MyFirstGLGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenGLEngine.iml" filepath="$PROJECT_DIR$/OpenGLEngine.iml" />
     </modules>
   </component>
 </project>
